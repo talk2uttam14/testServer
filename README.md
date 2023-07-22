@@ -6,7 +6,7 @@ Step 1: Install Yarn
 
 Step 2: Generate a project and hit the command
 > yarn init
-￼
+
 It will ask a couple of questions which needs to be answered,
 Setup a dummy website
 
